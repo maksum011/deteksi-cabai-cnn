@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 
 # Load model
-model = load_model("model_cabai.h5")
+model = load_model("model_cabai.keras")
 
 st.title("🌶️ Deteksi Kesehatan Buah Cabai")
 
